@@ -1,0 +1,2 @@
+# Health-Concern-App
+The purpose behind making this app was that people could not go out during corona and because of this corona was affecting children, so people can make clear video calls to doctors, voice calls and chat as well as according to their time and when the doctor is. It contains the complete schedule of the same. Therefore, this app has been made considering the inconvenience of the patient
